@@ -3,8 +3,11 @@ Musical Cat is an interactive, keyboard-controlled soundboard built with p5.js t
 This project was created as a fun way to explore event-driven programming, audio playback, and visual feedback in the browser using JavaScript. Also as my final project for my Creative Coding course.
 p5.js makes creative coding accessible and beginner-friendly. It abstracts away complex browser APIs and allows developers to focus on interaction, visuals, and experimentation.
 For this project, p5.js was ideal because it:
+
 Simplifies keyboard input handling
+
 Makes audio playback intuitive
+
 Encourages rapid prototyping and creativity
 
 # Overview
